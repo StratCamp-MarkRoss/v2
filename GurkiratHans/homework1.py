@@ -3,7 +3,8 @@ print('Gurkirat Hans')
 
 # 2. Create two variables, name and age, and assign your name and age to these variables. Then, print a message saying "My name is [name], and I am [age] years old."
 name = 'Gurkirat Hans'
-age = '29'
+age = '29' 
+#Decided to leave age as a string
 print("My name is " + name + " and I am " + age)
 
 # 3. Define a variable temperature and assign a float value to it to represent the current temperature in Celsius. Convert this temperature to Fahrenheit and store the result in a variable temperature_fahrenheit. Print the result.
