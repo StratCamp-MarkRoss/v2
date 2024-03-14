@@ -84,4 +84,4 @@ def dice_game():
         
 
 # Run the game
-dice_game()
+dice_game
